@@ -3,3 +3,4 @@ plugins:
       enabled: true
     gofmt:
       enabled: true
+      
